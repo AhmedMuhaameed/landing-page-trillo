@@ -3,7 +3,7 @@
 **page is Deployed**
 
 You can check page from this link:
-https://natours-landing-ahmedmohamed.netlify.app/
+https://trillo-ahmed-mohamed.netlify.app/
 
 **How to run project at your own**
 
